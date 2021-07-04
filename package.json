@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "egghead-reasonml-course",
   "version": "0.1.0",
   "scripts": {
     "build": "bsb -make-world",
@@ -7,7 +7,10 @@
     "clean": "bsb -clean-world"
   },
   "keywords": [
-    "BuckleScript"
+    "BuckleScript",
+    "Egghead.io",
+    "ReasonML",
+    "Rescript"
   ],
   "author": "",
   "license": "MIT",
